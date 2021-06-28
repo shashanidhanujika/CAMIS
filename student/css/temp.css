@@ -1,0 +1,42 @@
+
+.sidebar{
+	background-color: #ff3300;
+}
+.ft{
+	background-color: #000033;
+}
+.welcome{
+	color: #33cccc;
+	font-family: serif;
+	font-size: 35px;
+	font-weight: bold;
+}
+.tabs nav a:hover {
+	color: #F5F5F5;
+
+	}
+.btn-txt{
+	color: darkblue;
+	font-weight: bold;
+	font-family: serif;
+}
+.str-hdn{
+	color: #ff3300;
+	font-weight: bold;
+	font-family: serif;
+	font-size: 25px;
+}
+strong{
+	color: darkblue;
+	font-weight: bold;
+	font-family: serif;
+}
+.name{
+	color: darkblue;
+	font-weight: bold;
+	font-family: serif;
+}
+
+.margin{
+	margin-top: 20px;
+}
